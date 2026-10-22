@@ -72,3 +72,9 @@ src/
 └── main.tsx # Punto de entrada de la aplicación
 
 **Nota:** existen además las carpetas `store/` y `layouts/`, actualmente vacías — reservadas para uso futuro (a definir por el equipo).
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia **GNU AGPLv3**.
+
+Copyright (c) 2026 **Juan Marcelo Rodríguez** ([@jmrodev](https://github.com/jmrodev)).
